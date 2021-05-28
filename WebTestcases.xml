@@ -1,0 +1,16 @@
+<suite name="WebTestcases">
+<parameter name="Browser" value="CHROME"/>
+	<test name="LoginTestcases">
+			<classes>
+				<class name="MyProject.TestCases.TestCasesForWeb.InvalidLoginTestCases">
+				
+				</class>
+						
+				<class name="MyProject.TestCases.TestCasesForWeb.ValidLoginCredentials">
+				
+				</class>
+							
+			</classes>
+		
+	</test>
+</suite>

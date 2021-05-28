@@ -1,0 +1,5 @@
+ApplicationURL,https://opensource-demo.orangehrmlive.com/
+FirefoxDriverPath,C:\Users\Lenovo\Desktop\Muneera\geckodriver.exe
+ChromeDriverPath,C:\Users\Lenovo\Desktop\Muneera\chromedriver.exe
+ObjectRepositoriesLocation,C:\Users\Lenovo\Desktop\Muneera\PracticeProject\TestProject\TestCases\ObjectRepositories
+DataFilesLocation,C:\Users\Lenovo\Desktop\Muneera\PracticeProject\TestProject\TestCases\DataFiles
